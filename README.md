@@ -1,2 +1,2 @@
 # information-retrieval-assignments
-UFRGS Master degree class
+UFRGS Master's degree class
